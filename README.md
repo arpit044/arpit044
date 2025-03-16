@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Arpit Mishra
 ![](https://komarev.com/ghpvc/?username=arpit044)
       
-<a>href="https://www.linkedin.com/in/arpit-mishra-64976b16a/"><button style="font-size:24px"> LinkedIn <i class="fab fa-linkedin-in"></i></button></i></a>
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)]([(https://www.linkedin.com/in/arpit-mishra-64976b16a/)])
 📫 Reach me at arpitmishra.044@gmail.com
 
 
