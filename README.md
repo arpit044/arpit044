@@ -12,7 +12,7 @@
 </a>
 
 
-📫 Reach me at arpitmishra.044@gmail.com
+📫 arpitmishra.044@gmail.com
 
 
 
