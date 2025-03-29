@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arpit Mishra</h1>
-<h3 align="center">Passionate Software Engineer | AI & ML Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Passionate Data Scientist | AI & ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your_github_username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -46,8 +46,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure Datafactory](https://img.shields.io/badge/Azure Datafactory-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure Synapse Analytics](https://img.shields.io/badge/Azure Synapse Analytics-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AzureDatafactory](https://img.shields.io/badge/Azure Datafactory-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AzureSynapseAnalytics](https://img.shields.io/badge/Azure Synapse Analytics-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
