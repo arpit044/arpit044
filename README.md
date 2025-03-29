@@ -12,7 +12,7 @@
 
 ### 🔥 Profile Summary
 
-- 🚀 Experienced in **Python,  SQL, Machine Learning, AI, Tensorflow, FastAPI, Apache Kafka, Azure Datafactory, Azure Synapse Analytics, C++, GIT**  
+- 🚀 Experienced in **Python,  SQL, Machine Learning, AI, Tensorflow, FastAPI, Apache Kafka, Azure Datafactory, Azure Synapse Analytics, C++, GIT, JavaScript, Java**  
 - 💡 Currently working at **TCS**  
 - 🎯 Building **GenAI solutions, Machine Learning and Deep Learning Models, Fraud Detection Models, and Mortgage Automation Systems**  
 - 📖 Always learning about **LLMs, MLOps, and Cloud Deployments**  
@@ -25,20 +25,29 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 #### 🚀 Frameworks & Libraries:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-00ADD8?style=for-the-badge&logo=huggingface&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-00ADD8?style=for-the-badge&logo=huggingface&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-00ADD8?style=for-the-badge&logo=huggingface&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-00ADD8?style=for-the-badge&logo=huggingface&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-00ADD8?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 #### 💾 Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### ☁️ Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure Datafactory](https://img.shields.io/badge/Azure Datafactory-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure Synapse Analytics-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
