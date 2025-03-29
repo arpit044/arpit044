@@ -8,8 +8,7 @@
 
 📫 arpitmishra.044@gmail.com
 
-
-💡 Core Tech & Concepts
+#💡 Core Tech & Concepts
 Languages:       Python, SQL, R
 AI Frameworks:   Scikit-learn, PyTorch, TensorFlow, HuggingFace, SHAP, AIF360
 MLOps & DevOps:  Docker, GitHub Actions, ONNX, CI/CD Pipelines
