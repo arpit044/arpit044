@@ -12,9 +12,9 @@
 
 ### 🔥 Profile Summary
 
-- 🚀 Experienced in **Python, FastAPI, SQL, Machine Learning, and AI**  
-- 💡 Currently working at **TCS | BFSI Domain | Bank of America Client**  
-- 🎯 Building **GenAI solutions, Fraud Detection Models, and Mortgage Automation Systems**  
+- 🚀 Experienced in **Python,  SQL, Machine Learning, AI, Tensorflow, FastAPI, Apache Kafka, Azure Datafactory, Azure Synapse Analytics, C++, GIT**  
+- 💡 Currently working at **TCS**  
+- 🎯 Building **GenAI solutions, Machine Learning and Deep Learning Models, Fraud Detection Models, and Mortgage Automation Systems**  
 - 📖 Always learning about **LLMs, MLOps, and Cloud Deployments**  
 
 ---
@@ -55,10 +55,10 @@
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/arpit-mishra-64976b16a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:arpitmishra.044@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
