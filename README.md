@@ -12,10 +12,10 @@
 
 ### 🔥 Profile Summary
 
-- 🚀 Experienced in **Python,  SQL, Machine Learning, AI, Tensorflow, FastAPI, Apache Kafka, Azure Datafactory, Azure Synapse Analytics, C++, GIT, JavaScript, Java**  
+- 🚀 Experienced in **Python,  SQL, Machine Learning, AI, Tensorflow, Azure, AI Agents, RAG, LLM, LangChain, GIT, LangGraph, Java**  
 - 💡 Currently working at **TCS**  
-- 🎯 Building **GenAI solutions, Machine Learning and Deep Learning Models, Fraud Detection Models, and Mortgage Automation Systems**  
-- 📖 Always learning about **LLMs, MLOps, and Cloud Deployments**  
+- 🎯 Building **GenAI solutions, Machine Learning and Deep Learning Models, Fraud Detection Models, and AI Agents**  
+- 📖 Always learning about **Artificial Intelligence**  
 
 ---
 
